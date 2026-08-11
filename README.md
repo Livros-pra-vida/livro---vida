@@ -1,3 +1,5 @@
+# <img width="170" height="170" alt="logo_170x170" src="https://github.com/user-attachments/assets/20cd34c1-0eb0-463b-84bd-261d630b807d" />   Livros pra Vida (LPV)
+
 ##  Introdução
 
 Nos últimos anos, a tecnologia tem transformado a forma como as pessoas acessam informações, realizam compras e interagem com outras comunidades de interesse. No entanto, no segmento literário, ainda existe uma dificuldade em encontrar uma plataforma que reúna, em um único ambiente, recursos para compra, venda, troca e doação de livros, além da interação entre leitores. Atualmente, essas atividades costumam estar distribuídas em diferentes aplicativos e sites, o que dificulta a experiência do usuário e limita a formação de uma comunidade literária integrada. Dessa forma, surge a necessidade de uma solução que centralize esses recursos e proporcione maior praticidade, acessibilidade e interação entre os leitores.
