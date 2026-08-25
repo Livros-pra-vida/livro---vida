@@ -30,3 +30,8 @@ Outro diferencial do projeto é a implementação de um sistema de assinaturas l
 Além disso, a presença de um chat integrado permitirá a comunicação em tempo real entre os usuários, favorecendo a troca de informações, opiniões e recomendações literárias. Dessa forma, o projeto não se limita à disponibilização de livros, mas também promove a construção de uma comunidade colaborativa, na qual os leitores podem interagir, compartilhar conhecimentos e ampliar suas experiências culturais.
 
 Portanto, a relevância deste trabalho está na proposta de desenvolver uma plataforma completa que una recursos de negociação de livros, interação social e assinaturas literárias em um único ambiente digital, contribuindo para a ampliação do acesso à leitura, o fortalecimento da comunidade leitora e a valorização da cultura literária.
+
+
+## linguagem de marcação e linguagem de estilização utilizada:
+- ``HTML``
+- ``CSS``
