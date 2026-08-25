@@ -33,6 +33,5 @@ Portanto, a relevância deste trabalho está na proposta de desenvolver uma plat
 
 
 ## linguagem de marcação e linguagem de estilização utilizada:
-- <span style="color: orange;">HTML</span>
-- <span style="color: blue;">CSS</span>
-
+- 🟧 `HTML`
+- 🟦 `CSS`
