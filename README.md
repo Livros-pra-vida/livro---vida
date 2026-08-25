@@ -34,4 +34,4 @@ Portanto, a relevância deste trabalho está na proposta de desenvolver uma plat
 
 ## linguagem de marcação e linguagem de estilização utilizada:
 - 🟧 `HTML`
-- 🟦 `CSS`
+- 🟪 `CSS`
