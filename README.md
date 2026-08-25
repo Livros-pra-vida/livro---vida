@@ -15,6 +15,7 @@ Desenvolver uma plataforma digital integrada que permita aos leitores comprar, v
 * Implementar um sistema de assinaturas que ofereça vantagens exclusivas aos usuários cadastrados.
 * Criar um ambiente de interação entre leitores por meio de chat em tempo real.
 * Permitir o compartilhamento de recomendações, avaliações e experiências literárias.
+
 *Promover a integração entre leitores e incentivar a prática da leitura através de recursos colaborativos.
 *Promover a formação de uma comunidade ativa e colaborativa de leitores.
 
