@@ -33,5 +33,6 @@ Portanto, a relevância deste trabalho está na proposta de desenvolver uma plat
 
 
 ## linguagem de marcação e linguagem de estilização utilizada:
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5or=white
-- ![CSS](https://img.shields.io/badge/CB6?style=flat-square&logo=css3&logoColor=white
+- ``HTML``
+- ``CSS``
+
