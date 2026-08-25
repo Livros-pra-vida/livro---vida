@@ -10,9 +10,9 @@ Desenvolver uma plataforma digital integrada que permita aos leitores comprar, v
 
 ## Objetivos Específicos
 
-*Identificar as principais necessidades dos leitores em relação à aquisição e compartilhamento de livros.
+* Identificar as principais necessidades dos leitores em relação à aquisição e compartilhamento de livros.
 * Desenvolver um sistema para compra, venda, troca e doação de livros.
-*Implementar um sistema de assinaturas que ofereça vantagens exclusivas aos usuários cadastrados.
+* Implementar um sistema de assinaturas que ofereça vantagens exclusivas aos usuários cadastrados.
 * Criar um ambiente de interação entre leitores por meio de chat em tempo real.
 * Permitir o compartilhamento de recomendações, avaliações e experiências literárias.
 *Promover a integração entre leitores e incentivar a prática da leitura através de recursos colaborativos.
