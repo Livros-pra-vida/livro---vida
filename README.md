@@ -2,7 +2,7 @@
 
 ##  Introdução
 
-Desenvolver uma plataforma digital integrada voltada à comunidade leitora, capaz de centralizar em um único ambiente funcionalidades de compra, venda, troca e doação de livros, bem como um serviço de assinaturas literárias que ofereça benefícios exclusivos aos usuários. Além disso, a plataforma disponibilizará recursos de comunicação em tempo real por meio de chat, permitindo a interação entre leitores, o compartilhamento de recomendações e experiências literárias, com o propósito de incentivar a leitura, ampliar o acesso aos livros e fortalecer uma comunidade colaborativa de leitores.
+Desenvolver uma plataforma digital voltada à comunidade leitora, integrando recursos para negociação de livros, por meio de compra, venda, troca e doação, além de oferecer um sistema de assinaturas literárias e ferramentas de interação entre usuários. A plataforma tem como propósito ampliar o acesso aos livros, incentivar a prática da leitura e promover a formação de uma comunidade colaborativa de leitores.
 
 ## Objetivo Geral
 
@@ -10,26 +10,33 @@ Desenvolver uma plataforma digital integrada que permita aos leitores comprar, v
 
 ## Objetivos Específicos
 
-* Identificar as principais necessidades dos leitores em relação à aquisição e compartilhamento de livros.
-* Desenvolver um sistema para compra, venda, troca e doação de livros.
-* Implementar um sistema de assinaturas que ofereça vantagens exclusivas aos usuários cadastrados.
-* Criar um ambiente de interação entre leitores por meio de chat em tempo real.
-* Permitir o compartilhamento de recomendações, avaliações e experiências literárias.
-* Promover a integração entre leitores e incentivar a prática da leitura através de recursos colaborativos.
-* Promover a formação de uma comunidade ativa e colaborativa de leitores.
-
+* Identificar as principais necessidades dos leitores em relação à aquisição, compartilhamento e recomendação de livros.
+* Desenvolver um sistema para gerenciar a compra, venda, troca e doação de livros entre usuários cadastrados.
+* Implementar um sistema de assinaturas literárias que ofereça benefícios e conteúdos exclusivos aos assinantes.
+* Criar um ambiente de comunicação entre usuários por meio de chat em tempo real para facilitar a interação e a negociação de livros.
+* Disponibilizar recursos para o compartilhamento de recomendações, avaliações e experiências literárias.
+* Promover a interação entre leitores por meio de funcionalidades colaborativas que incentivem a leitura e o engajamento da comunidade.
 
 ## Justificativa
 
-O presente projeto justifica-se pela crescente necessidade de soluções digitais que facilitem o acesso à leitura e promovam a interação entre pessoas que compartilham o interesse por livros. Atualmente, leitores que desejam comprar, vender, trocar ou doar livros geralmente precisam utilizar diferentes plataformas para realizar essas atividades, o que pode tornar o processo menos prático e eficiente. Além disso, muitos ambientes digitais não oferecem recursos que incentivem a formação de uma comunidade literária ativa e colaborativa.
+O presente projeto surge da necessidade de reunir, em uma única plataforma digital, recursos relacionados à aquisição, compartilhamento e interação entre leitores. Atualmente, usuários interessados em comprar, vender, trocar ou doar livros frequentemente precisam recorrer a diferentes serviços e plataformas para realizar essas atividades, o que pode tornar o processo fragmentado e menos eficiente. Além disso, muitas dessas soluções são voltadas apenas para transações comerciais, oferecendo poucos recursos de interação e colaboração entre os usuários.
 
-Diante desse cenário, a criação de uma plataforma integrada surge como uma alternativa capaz de reunir, em um único ambiente, funcionalidades voltadas à circulação de livros e ao compartilhamento de experiências literárias. A proposta busca facilitar o acesso às obras por meio de diferentes modalidades, como compra, venda, troca e doação, contribuindo para a democratização da leitura e para o reaproveitamento de livros.
+Nesse contexto, a proposta deste trabalho consiste no desenvolvimento de uma plataforma integrada que permita a negociação de livros por meio de compra, venda, troca e doação, associada a ferramentas que favoreçam a comunicação e o compartilhamento de experiências literárias. O diferencial da solução está na centralização dessas funcionalidades em um único ambiente digital, possibilitando que os usuários realizem negociações e interajam com outros leitores sem a necessidade de utilizar múltiplas plataformas.
 
-Outro diferencial do projeto é a implementação de um sistema de assinaturas literárias, que proporcionará aos usuários acesso a benefícios exclusivos, recomendações personalizadas e conteúdos relacionados ao universo da leitura. Esse recurso visa aumentar o engajamento dos leitores, incentivando o contato frequente com novas obras e fortalecendo o hábito da leitura.
+Outro aspecto relevante do projeto é a implementação de um sistema de assinaturas literárias, que oferecerá benefícios específicos aos usuários cadastrados. Esse recurso busca agregar valor à experiência dos leitores por meio do acesso a conteúdos exclusivos, recomendações de leitura e outras funcionalidades relacionadas ao universo literário, promovendo maior engajamento com a plataforma.
 
-Além disso, a presença de um chat integrado permitirá a comunicação em tempo real entre os usuários, favorecendo a troca de informações, opiniões e recomendações literárias. Dessa forma, o projeto não se limita à disponibilização de livros, mas também promove a construção de uma comunidade colaborativa, na qual os leitores podem interagir, compartilhar conhecimentos e ampliar suas experiências culturais.
+Além disso, a disponibilização de um sistema de comunicação em tempo real permitirá a interação entre os usuários durante processos de negociação e compartilhamento de informações sobre livros. Dessa forma, a plataforma pretende favorecer a troca de recomendações, avaliações e experiências de leitura, contribuindo para a construção de um ambiente colaborativo voltado à comunidade leitora.
 
-Portanto, a relevância deste trabalho está na proposta de desenvolver uma plataforma completa que una recursos de negociação de livros, interação social e assinaturas literárias em um único ambiente digital, contribuindo para a ampliação do acesso à leitura, o fortalecimento da comunidade leitora e a valorização da cultura literária.
+Segundo Freire (1989), a leitura desempenha papel fundamental no desenvolvimento do conhecimento e da consciência crítica dos indivíduos. Complementando essa perspectiva, Candido (2011) destaca que a literatura possui importante função social e cultural, contribuindo para a formação humana. Dessa maneira, iniciativas que ampliem as oportunidades de acesso aos livros e estimulem a participação dos leitores em comunidades digitais podem representar importantes mecanismos de incentivo à leitura.
+
+Portanto, a relevância deste trabalho está no desenvolvimento de uma plataforma capaz de integrar negociação de livros, assinaturas literárias e interação social em um único ambiente digital. Espera-se que a solução contribua para facilitar o acesso às obras literárias, estimular o compartilhamento de experiências entre leitores e fortalecer a participação da comunidade em práticas colaborativas relacionadas à leitura.
+
+ ## Referências para sustentar a justificativa
+* CANDIDO, Antonio. O Direito à Literatura. Rio de Janeiro: Ouro Sobre Azul, 2011.
+* FREIRE, Paulo. A Importância do Ato de Ler. São Paulo: Cortez, 1989.
+* LÉVY, Pierre. A Inteligência Coletiva. São Paulo: Loyola, 2010.
+* RECUERO, Raquel. Redes Sociais na Internet. Porto Alegre: Sulina, 2009.
+* ALBERTIN, Alberto Luiz. Comércio Eletrônico: Modelo, Aspectos e Contribuições de sua Aplicação. São Paulo: Atlas, 2010.
 
 
 ## linguagem de marcação e linguagem de estilização utilizada:
