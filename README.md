@@ -39,6 +39,26 @@ Portanto, a relevância deste trabalho está no desenvolvimento de uma plataform
 * ALBERTIN, Alberto Luiz. Comércio Eletrônico: Modelo, Aspectos e Contribuições de sua Aplicação. São Paulo: Atlas, 2010.
 
 
+
+  ## Metodologia
+
+  O presente trabalho caracteriza-se como uma pesquisa aplicada, pois tem como finalidade desenvolver uma solução tecnológica voltada para a comunidade leitora, buscando solucionar a dificuldade de encontrar, em um único ambiente digital, recursos para compra, venda, troca, doação e compartilhamento de livros.
+
+Quanto aos objetivos, a pesquisa possui caráter exploratório e descritivo. Exploratório porque busca compreender as necessidades dos leitores e identificar funcionalidades relevantes para a construção da plataforma proposta. Descritivo porque procura analisar características de sistemas semelhantes e levantar informações sobre o comportamento e as demandas dos usuários em relação ao acesso e compartilhamento de livros.
+
+Em relação aos procedimentos técnicos, foi adotada a pesquisa bibliográfica, realizada por meio da consulta a livros, artigos científicos, trabalhos acadêmicos, publicações eletrônicas e materiais relacionados aos temas abordados no projeto, tais como plataformas digitais, comércio eletrônico, comunidades virtuais, sistemas de assinatura, interação social online e incentivo à leitura. A seleção das fontes foi baseada na relevância dos autores para a área estudada, na atualidade das publicações e na contribuição dos conteúdos para os objetivos da pesquisa.
+
+Além da pesquisa bibliográfica, foi realizada uma análise documental e observacional de plataformas já existentes voltadas à comercialização e compartilhamento de livros. Essa etapa permitiu identificar funcionalidades, características, vantagens e limitações presentes nos sistemas atualmente disponíveis, contribuindo para a definição dos requisitos da solução proposta.
+
+Para a organização e desenvolvimento do projeto foram utilizadas ferramentas específicas de apoio. O Figma foi empregado na elaboração dos protótipos e interfaces do sistema, possibilitando a modelagem visual das telas e a validação da experiência do usuário antes da implementação. Já o GitHub foi utilizado para o armazenamento, versionamento e gerenciamento do código-fonte, permitindo o acompanhamento das alterações realizadas e a colaboração entre os integrantes da equipe durante o desenvolvimento.
+
+Dessa forma, a metodologia adotada permitiu reunir informações teóricas e práticas necessárias para compreender o problema de pesquisa, definir os requisitos do sistema e desenvolver uma solução alinhada aos objetivos propostos.
+
+## Desenvolvimento
+
+
+
+
 ## linguagem de marcação e linguagem de estilização utilizada:
 - 🟧 `HTML`
 - 🟪 `CSS`
