@@ -27,6 +27,9 @@ header {
 header img {
     width: 56px;
     height: 56px;
+    object-fit: contain;
+    background: transparent;
+    mix-blend-mode: multiply;
 }
 
 header span,
